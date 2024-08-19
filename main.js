@@ -8,8 +8,8 @@ for (let i = 1; i <= banana; i++) {
     }
 }
 
-let num = +prompt('Введите число') 
-let answer = 0
+let umn = +prompt('Введите число') 
+let answ = 0
 for (let i = 1; i <= num; i++) {
     if(i % 2 == 0){
         answer += i
